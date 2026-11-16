@@ -31,7 +31,7 @@
 
   <div class="hero">
     <div class="hero-waves" aria-hidden="true">🌊 ⚓ 🌊</div>
-    <p>La bataille navale en famille : chacun sur son téléphone.</p>
+    <p>Bataille navale !</p>
   </div>
 
   <button class="fc-btn fc-btn-primary fc-btn-block" type="button" onclick={create}>➕ Créer une partie</button>
